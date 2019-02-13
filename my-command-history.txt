@@ -1,0 +1,135 @@
+    1  sudo apt-get install ubuntu-desktop
+    2  sudo dpkg --configure -a
+    3  sudo apt-get install ubuntu-desktop
+    4  mk dir CIT173_Lab3
+    5  git remote add origin https://github.com/KevinR2019/CIT173_Lab3.git
+    6  echo "#CIT173_Lab3" >> README.md
+    7  git init
+    8  git add README.md
+    9  git commit -m "first commit"
+   10  git remote add origin https://github.com/KevinR2019/CIT173.git
+   11  git push -u origin master
+   12  mk dir CIT173_Lab3
+   13  cd ~/CIT173_Lab3
+   14  ~/CIT173_Lab3
+   15  cd ~/
+   16  whoami
+   17  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+   18  cd ~/CIT173_Lab3
+   19  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+   20  cat ~/CIT173_Lab3/phonebook1.txt
+   21  pwd
+   22  cd ~/CIT173_Lab3
+   23  ls
+   24  git push -u origin master
+   25  cd /home/KevinR2019/CIT173_Lab3
+   26  cd
+   27  CIT173_lab3
+   28  cd CIT173_Lab3
+   29  cd ~/CIT173_Lab3
+   30  mkdir CIT173_Lab3
+   31  cd ~/
+   32  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+   33  cd ~/CIT173_Lab3
+   34  whoami
+   35  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+   36  cd ~/CIT173_Lab3
+   37  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+   38  cat ~/CIT173_Lab3/phonebook1.txt
+   39  sed man
+   40  man sed
+   41  sed 's/575/775/-i' ~/CIT173_Lab3/phonebook1.txt
+   42  sed '-i/575/775/ ~/CIT173_Lab3/phonebook1.txt
+   43  ~/CIT173_Lab3/phonebook1.txt
+   44  ls
+   45  ls phonebook1.txt
+   46  sed '-i/575/775/' cal-575.txt > cal-775.txt
+   47  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook1.txt
+   48  cd ~/
+   49  git clone https://github.com/RenoTechnologyAcademy/CIT173_Lab3_Files.git
+   50  sudo tar -xvf ~/CIT173_Lab3_Files_/phonebook.tar.gz
+   51  sudo tar -xvf ~/CIT173_Lab3_Files/phonebook.tar.gz
+   52  cat ~/CIT173_Lab3/phonebook1.txt
+   53  man sed
+   54  sed '-i/575/775/' > ~/CIT173_Lab3/phonebook1.txt
+   55  sudo sed '-i/575/775/' > ~/CIT173_Lab3/phonebook1.txt
+   56  sudo
+   57  sudo -u
+   58  su
+   59  sudo
+   60  git push origin master
+   61  ~/CIT173_Lab3
+   62  git remote add origin https://github.com/KevinR2019/CIT173_Lab3.git
+   63  git push -u origin master
+   64  sed 's/575/775/-i' > ~/CIT173_Lab3/phonebook1.txt
+   65  su sed 's/575/775/-i' > ~/CIT173_Lab3/phonebook1.txt
+   66  ~/CIT173_Lab3
+   67  dir ~/CIT173_Lab3
+   68  CIT173_Lab3
+   69  /CIT173_Lab3
+   70  cd ~/CIT173_Lab3
+   71  sed 's/575/775/-i' > ~/CIT173_Lab3/phonebook1.txt
+   72  sudo sed 's/575/775/-i' > ~/CIT173_Lab3/phonebook1.txt
+   73  sudo sed '-i/575/775/' > ~/CIT173_Lab3/phonebook1.txt
+   74  sudo
+   75  sudo -u
+   76  cd ~/CIT173_Lab3
+   77  join /phonebook1.txt/phonebook2.txt/ > my-phonebook.txt
+   78  'join --help'
+   79  cat /phonebook1.txt/phonebook2.txt/ > my-phonebook.txt
+   80  cat ~/CIT173_Lab3/phonebook1.txt/CIT173_Lab3/phonebook2.txt > my-phonebook.txt
+   81  cat ~/CIT173_Lab3/phonebook1.txt CIT173_Lab3/phonebook2.txt > my-phonebook.txt
+   82  sudo cat ~/CIT173_Lab3/phonebook1.txt CIT173_Lab3/phonebook2.txt > my-phonebook.txt
+   83  ls phonebook2.txt
+   84  ls ~/CIT173_Lab3/phonebook.txt
+   85  ls ~/CIT173_Lab3/phonebook2.txt
+   86  pwd
+   87  ls pwd
+   88  ls ~/CIT173_Lab3
+   89  man apt
+   90  apt-get install python3-minimal
+   91  sudo apt-get install python3-minimal
+   92  -l
+   93  dpkg -p
+   94  dpkg -p python3 > ~/CIT173_Lab3/my-installed-1.txt
+   95  man python
+   96  run script hello.py > ~/CIT173_Lab3/my-python-output.txt
+   97  zun script hello.py > ~/CIT173_Lab3/my-python-output.txt
+   98  man python3
+   99  dir
+  100  python hello.py > ~/CIT173_Lab3/my-python-output.txt
+  101  python3-minimal hello.py > ~/CIT173_Lab3/my-python-output.txt
+  102  hello.py
+  103  ./hello.py
+  104  sudo ./hello.py
+  105  /hello.py
+  106  dir
+  107  dir hello.py
+  108  print hello.py > ~/CIT173_Lab3/my-python-output.txt
+  109  python hello.py
+  110  pyhton3 hello.py
+  111  sudo apt install python3-minimal 
+  112  python3-minimal hello.py
+  113  python3 hello.py
+  114  python3 hello.py > ~CIT173_Lab3/my-python-output.txt
+  115  python3 hello.py > ~CIT173_Lab3_Files/my-python-output.txt
+  116  python3 hello.py > ~/CIT173_Lab3_Files/my-python-output.txt
+  117  python3 infinite.py &
+  118  ps
+  119  ps > ~/CIT173_Lab3/my-processes-1.txt.
+  120  kill python3
+  121  python3 kill
+  122  /python3/kill/
+  123  kill -l
+  124  kill -s python3
+  125  kill -s 9
+  126  ps
+  127  ps au
+  128  kill -s 8662 > ~/CIT173_Lab3/my-processes.txt.
+  129  kill -s8662 > ~/CIT173_Lab3/my-processes-2.txt.
+  130  kill 8662 > ~/CIT173_Lab3/my-processes-2.txt.
+  131  apt-get remove python3
+  132  sudo apt-get remove python3
+  133  ps
+  134  ps > ~/CIT173_Lab3/my-installed-2.txt.
+  135  history > ~/CIT173_Lab3/my-command-history.txt
